@@ -16,3 +16,11 @@ The dashboard includes a transactions tab to log buy or sell orders using Excel'
 
 ![Alt text](images/image.png)
 
+## Interactive Excel Dashboard
+
+1. Set up the dashboard Structure
+2. Data analysis using pivot tables
+3. Set up the visuals (KPIs, tables and chart)
+4. Make the dashboard interactive using Slicers
+
+![Alt text](images/image-2.png)
